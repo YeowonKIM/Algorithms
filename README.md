@@ -35,3 +35,4 @@
 - [숫자카드2](https://github.com/YeowonKIM/Algorithms/blob/main/%EB%B0%B1%EC%A4%80/Silver/10816.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%852/%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%852.py)
 
 <br>
+# Algorithms
