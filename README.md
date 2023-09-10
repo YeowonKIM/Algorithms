@@ -13,6 +13,7 @@
 - [풍선 터뜨리기](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/2346.%E2%80%85%ED%92%8D%EC%84%A0%E2%80%85%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0)
 - [오아시스 재결합](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Platinum/3015.%E2%80%85%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%E2%80%85%EC%9E%AC%EA%B2%B0%ED%95%A9)
 - [압축](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/1662.%E2%80%85%EC%95%95%EC%B6%95)
+- [히스토그램](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Platinum/1725.%E2%80%85%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8)
 
 <br>
 
@@ -28,6 +29,7 @@
 
 ### ☑️ Dynamic Programming
 - [2×n 타일링 2](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11727.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81%E2%80%852)
+- [1로 만들기 2](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/12852.%E2%80%851%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852)
 
 <br>
 
