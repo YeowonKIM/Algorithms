@@ -19,6 +19,11 @@
 
 <br>
 
+### ☑️ Hash Table
+-[Longest Consecutive Sequence](https://github.com/YeowonKIM/Algorithms/tree/main/0128-longest-consecutive-sequence)
+
+<br>
+
 ### ☑️ Greedy Algorithm
 - [신입사원](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Gold/4195.%E2%80%85%EC%B9%9C%EA%B5%AC%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
