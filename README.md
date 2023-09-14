@@ -20,7 +20,7 @@
 <br>
 
 ### ☑️ Hash Table
--[Longest Consecutive Sequence](https://github.com/YeowonKIM/Algorithms/tree/main/0128-longest-consecutive-sequence)
+- [Longest Consecutive Sequence](https://github.com/YeowonKIM/Algorithms/tree/main/0128-longest-consecutive-sequence)
 
 <br>
 
