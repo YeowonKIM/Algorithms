@@ -1,9 +1,7 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         length = 0
-        nums_dict = {}
-        for num in nums:
-            nums_dict[num] = 0
+        nums_dict = {x:0 for x in nums}
 
         for num in nums_dict:
             if num - 1 not in nums_dict:
