@@ -29,6 +29,11 @@
 
 <br>
 
+### ☑️ Tree
+- [Lowest Common Ancestor of a Binary Tree](https://github.com/YeowonKIM/Algorithms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree)
+
+<br>
+
 ### ☑️ Divide & Conquer
 - [종이의 개수](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1780.%E2%80%85%EC%A2%85%EC%9D%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
 
