@@ -31,6 +31,7 @@
 
 ### ☑️ Tree
 - [Lowest Common Ancestor of a Binary Tree](https://github.com/YeowonKIM/Algorithms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree)
+- [Longest Consecutive Sequence](https://github.com/YeowonKIM/Algorithms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree)
 
 <br>
 
