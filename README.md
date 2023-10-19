@@ -35,6 +35,13 @@
 
 <br>
 
+### ☑️ Graph Search
+- [Number of Islands](https://github.com/YeowonKIM/Algorithms/tree/main/0200-number-of-islands)
+- [Shortest Path in Binary Matrix](https://github.com/YeowonKIM/Algorithms/tree/main/1171-shortest-path-in-binary-matrix)
+- [Keys and Rooms](https://github.com/YeowonKIM/Algorithms/tree/main/0871-keys-and-rooms)
+
+<br>
+
 ### ☑️ Divide & Conquer
 - [종이의 개수](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/1780.%E2%80%85%EC%A2%85%EC%9D%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
 
@@ -43,6 +50,7 @@
 ### ☑️ Dynamic Programming
 - [2×n 타일링 2](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/11727.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81%E2%80%852)
 - [1로 만들기 2](https://github.com/YeowonKIM/Algorithms/tree/main/%EB%B0%B1%EC%A4%80/Silver/12852.%E2%80%851%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852)
+- [Min Cost Climbing Stairs](https://github.com/YeowonKIM/Algorithms/tree/main/0747-min-cost-climbing-stairs)
 
 <br>
 
