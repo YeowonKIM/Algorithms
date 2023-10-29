@@ -1,14 +1,18 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        dp = [[-1] * n for _ in range(m)]
+        memo = {}
+        def dfs(r, c):
+            if r==0 and c==0:
+                # (0, 0): 1
+                memo[(r, c)] = 1
+                return memo[(r, c)]
 
-        for r in range(m):
-            dp[r][0] = 1
-        for c in range(n):
-            dp[0][c] = 1
-
-        for r in range(1, m):
-            for c in range(1, n):
-                dp[r][c] = dp[r-1][c] + dp[r][c-1]
-        return dp[m-1][n-1]
-            
+            path_nums = 0
+            if (r, c) not in memo:
+                if r-1 >= 0:
+                    path_nums += dfs(r-1, c)
+                if c-1 >= 0:
+                    path_nums += dfs(r, c-1)
+                memo[(r, c)] = path_nums
+            return memo[(r, c)]
+        return dfs(m-1, n-1)
