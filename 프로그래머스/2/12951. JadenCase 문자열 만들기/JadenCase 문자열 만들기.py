@@ -1,5 +1,5 @@
 def solution(s):
-    list_s = list(s.split(' '))
-    s_capitalize = [i.capitalize() for i in list_s]
-    answer = ' '.join(s_capitalize)
+    s = s.split(' ')  
+    s = [i.capitalize() for i in s]
+    answer = ' '.join(s)
     return answer
