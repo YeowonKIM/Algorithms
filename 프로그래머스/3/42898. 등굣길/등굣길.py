@@ -1,5 +1,4 @@
 def solution(m, n, puddles):
-    # m:행, n:열
     dp = [[0]*(m+1) for _ in range(n+1)]
     dp[1][1] = 1
 
